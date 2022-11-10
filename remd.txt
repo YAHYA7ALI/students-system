@@ -1,0 +1,15 @@
+ PHP Version 5.6 
+
+
+**بيانات تسجيل دخول المسؤول**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**بيانات تسجيل دخول المعلم **
+
+Email   :admin123@gmail.com
+Password: pass123
+
+كلمة المرور لكافة حسابات المعلمين الجدد هي : pass123
